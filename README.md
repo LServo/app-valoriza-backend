@@ -6,7 +6,7 @@
 
 [ x ] Não é permitido cadastrar usuário sem email
 
--Cadastro de Tag
+- Cadastro de Tag
 
 [ x ] Não é permitido cadastrar tag sem nome
 
